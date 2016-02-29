@@ -1,26 +1,26 @@
 # DISMATH_Project0.0_ZannAmbrosio
 
 - Home Screen
- ![Screenshots](Screenshot.42.png)
+ ![Screenshots](Home 1.png)
 - Home Screen Blocks
-![Screenshots](Screenshot.44.png)
+![Screenshots](Home 2.png)
 - Screen 1
-![Screenshots](Screenshot.43.png)
+![Screenshots](Screen 1a.png)
 - Screen 1 Blocks
-![Screenshots](Screenshot.45.png)
+![Screenshots](Screen 1b.png)
 - Screen 2
-![Screenshots](Screenshot.46.png)
+![Screenshots](Screen 2a.png)
 - Screen 2 Blocks
-![Screenshots](Screenshot.48.png)
+![Screenshots](Screen 2b.png)
 - Screen 3
-![Screenshots](Screenshot.47.png)
+![Screenshots](Screen 3a.png)
 - Screen 3 Blocks
-![Screenshots](Screenshot.49.png)
+![Screenshots](Screen 3b.png)
 - Screen 4
-![Screenshots](Screenshot.49.png)
+![Screenshots](Screen 4a.png)
 - Screen 4 Blocks
-![Screenshots](Screenshot.50.png)
+![Screenshots](Screen 4b.png)
 - Screen 5
-![Screenshots](Screenshot.52.png)
+![Screenshots](Screen 5a.png)
 - Screen 5 Blocks
-![Screenshots](Screenshot.53.png)
+![Screenshots](Screenshot.55.png)
